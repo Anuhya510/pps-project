@@ -18,10 +18,10 @@ quiz_app/
 │ └── student_history/  # Folder for storing results
 ├── modules/
 │ ├── init.py
-│ ├── question_manager.py    # Question loading/saving
+│ ├── question_manager.py    # CRUD operations + data handling
 │ ├── quiz_engine.py         # Quiz logic
 │ ├── score_analyzer.py      # Score calculations
-│ └── admin_tools.py         # Admin functions
+│ └── admin_tools.py         # Admin workflows & validation layer
 ├── gui/
 │ ├── init.py
 │ ├── main_window.py        # Main PyQt window
