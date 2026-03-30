@@ -11,26 +11,33 @@ quiz application
 Run main.py
 
 ## Project Structure
+```text
 quiz_app/
+│
 ├── data/
-│ ├── questions.json    # Question bank
-│ ├── admin_pass.txt    # Encrypted admin password
-│ └── student_history/  # Folder for storing results
+│   ├── questions.json          # Central question bank
+│   ├── admin_pass.txt          # Encrypted admin password
+│   └── student_history/        # Stored quiz results per student
+│
 ├── modules/
-│ ├── init.py
-│ ├── question_manager.py    # CRUD operations + data handling
-│ ├── quiz_engine.py         # Quiz logic
-│ ├── score_analyzer.py      # Score calculations
-│ └── admin_tools.py         # Admin workflows & validation layer
+│   ├── __init__.py
+│   ├── question_manager.py     # CRUD operations & question handling
+│   ├── quiz_engine.py          # Core quiz logic
+│   ├── score_analyzer.py       # Score calculation & analytics
+│   └── admin_tools.py          # Admin workflows & validation layer
+│
 ├── gui/
-│ ├── init.py
-│ ├── main_window.py        # Main PyQt window
-│ ├── quiz_window.py        # Quiz taking interface
-│ ├── admin_window.py       # Admin interface
-│ └── results_window.py     # Results display
+│   ├── __init__.py
+│   ├── main_window.py          # Main PyQt application window
+│   ├── quiz_window.py          # Quiz-taking interface
+│   ├── admin_window.py         # Admin control panel
+│   └── results_window.py       # Results & feedback display
+│
 ├── utils/
-│ ├── init.py
-│ ├── exceptions.py     # Custom exceptions
-│ └── validators.py     # Input validation
-├── main.py             # Entry point
-└── requirements.txt     # Dependencies
+│   ├── __init__.py
+│   ├── exceptions.py           # Custom exception definitions
+│   └── validators.py           # Input & data validation utilities
+│
+├── main.py                     # Application entry point
+└── requirements.txt            # Project dependencies
+```
