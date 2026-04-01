@@ -1,11 +1,19 @@
-# pps project
-quiz application
+# PPS PROJECT- QUIZ APPLICATION  
+
+A Python-based quiz application with GUI support for conducting quizzes, managing questions, and tracking student performance.
 
 ## Team Members
 - Member 1: Core Engine
 - Member 2: Data & Admin 
 - Member 3: Analytics
 - Member 4: GUI
+
+## Requirements
+- Python 3.x
+
+Install dependencies:
+```bash
+pip install -r requirements.txt
 
 ## How to Run
 Run main.py
