@@ -150,7 +150,7 @@
     {
       "id": 17,
       "question": "What is the output of [1,2,3].append(4)?",
-      "options": ["4", "[4,1,2,3]", "[1,2,3,4]", "Error"],
+      "options": ["4", "[4,1,2,3]", "[1,2,3,4]", "None"],
       "correct": 3,
       "difficulty": "medium",
       "topic": "List Operations",
