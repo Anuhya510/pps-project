@@ -16,7 +16,7 @@ from PyQt5.QtWidgets import (
 # For demonstration, create a minimal stub QuestionManager if not available.
 
 class DummyQuestionManager:
-    def __init__(self):
+    def _init_(self):
         self._questions = {}
         self._next_id = 1
 
@@ -72,7 +72,7 @@ from hashlib import sha256
 
 class AdminToolsSimple:
     # Minimal reimplementation to avoid circular imports in demo
-    def __init__(self, qm, password_file: Path):
+    def _init_(self, qm, password_file: Path):
         self.qm = qm
         self.password_file = Path(password_file)
         self.password_file.parent.mkdir(parents=True, exist_ok=True)
@@ -131,8 +131,8 @@ class AdminToolsSimple:
 # GUI classes
 
 class LoginDialog(QDialog):
-    def __init__(self, admin_tools: AdminToolsSimple):
-        super().__init__()
+    def _init_(self, admin_tools: AdminToolsSimple):
+        super()._init_()
         self.setWindowTitle("Admin Login")
         self.admin_tools = admin_tools
         self.resize(300, 100)
@@ -160,8 +160,8 @@ class LoginDialog(QDialog):
 
 
 class QuestionEditorDialog(QDialog):
-    def __init__(self, parent=None, question: Dict[str, Any]=None):
-        super().__init__(parent)
+    def _init_(self, parent=None, question: Dict[str, Any]=None):
+        super()._init_(parent)
         self.setWindowTitle("Question Editor")
         self.resize(600, 400)
         self.question = question
@@ -223,8 +223,8 @@ class QuestionEditorDialog(QDialog):
 
 
 class AdminWindow(QWidget):
-    def __init__(self, admin_tools: AdminToolsSimple):
-        super().__init__()
+    def _init_(self, admin_tools: AdminToolsSimple):
+        super()._init_()
         self.setWindowTitle("Admin Tools")
         self.resize(900, 600)
         self.admin = admin_tools
@@ -395,7 +395,7 @@ from pathlib import Path
 from typing import List, Dict, Any
 
 class FileQuestionManager:
-    def __init__(self, path: Path):
+    def _init_(self, path: Path):
         self.path = Path(path)
         self.path.parent.mkdir(parents=True, exist_ok=True)
         if not self.path.exists():
@@ -475,8 +475,8 @@ class FileQuestionManager:
         return {"total": total, "difficulty": difficulty, "topics": topics}
 
 class QuizDialog(QDialog):
-    def __init__(self, parent, questions: List[Dict[str, Any]]):
-        super().__init__(parent)
+    def _init_(self, parent, questions: List[Dict[str, Any]]):
+        super()._init_(parent)
         self.setWindowTitle("Quiz")
         self.resize(700, 500)
         self.engine = QuizEngine(questions)
@@ -595,5 +595,5 @@ def main():
     w.show()
     sys.exit(app.exec_())
 
-if __name__ == "__main__":
+if _name_ == "_main_":
     main()
