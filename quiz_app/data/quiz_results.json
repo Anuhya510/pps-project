@@ -214,5 +214,1090 @@
         "explanation": "Syntax errors stop execution; logical errors give wrong results."
       }
     ]
+  },
+  {
+    "date": "2026-04-05 14:04:13",
+    "score": 10,
+    "total": 10,
+    "percentage": 100.0,
+    "answers": [
+      {
+        "question_id": 25,
+        "question": "How do you open a file for reading in Python?",
+        "selected_option": "open('file.txt','r')",
+        "correct_option": "open('file.txt','r')",
+        "is_correct": true,
+        "difficulty": "hard",
+        "topic": "File Handling",
+        "explanation": "'r' = read mode."
+      },
+      {
+        "question_id": 16,
+        "question": "Which function converts a string to lowercase?",
+        "selected_option": "lower()",
+        "correct_option": "lower()",
+        "is_correct": true,
+        "difficulty": "medium",
+        "topic": "String Methods",
+        "explanation": "lower() converts to lowercase."
+      },
+      {
+        "question_id": 9,
+        "question": "What is indentation used for in Python?",
+        "selected_option": "To define code blocks",
+        "correct_option": "To define code blocks",
+        "is_correct": true,
+        "difficulty": "easy",
+        "topic": "Python Basics",
+        "explanation": "Indentation defines blocks of code in Python."
+      },
+      {
+        "question_id": 4,
+        "question": "What is the purpose of documentation in programming?",
+        "selected_option": "To explain code for others",
+        "correct_option": "To explain code for others",
+        "is_correct": true,
+        "difficulty": "easy",
+        "topic": "Documentation",
+        "explanation": "Documentation helps others understand your code."
+      },
+      {
+        "question_id": 20,
+        "question": "What is a default argument?",
+        "selected_option": "Argument with a default value if not provided",
+        "correct_option": "Argument with a default value if not provided",
+        "is_correct": true,
+        "difficulty": "medium",
+        "topic": "Functions",
+        "explanation": "Default values are used if not passed."
+      },
+      {
+        "question_id": 24,
+        "question": "What is a dictionary in Python?",
+        "selected_option": "Key-value pair collection",
+        "correct_option": "Key-value pair collection",
+        "is_correct": true,
+        "difficulty": "hard",
+        "topic": "Dictionaries",
+        "explanation": "Stores key-value pairs."
+      },
+      {
+        "question_id": 11,
+        "question": "What is the difference between a syntax error and a logical error?",
+        "selected_option": "Syntax errors are caught by interpreter, logical errors are not",
+        "correct_option": "Syntax errors are caught by interpreter, logical errors are not",
+        "is_correct": true,
+        "difficulty": "medium",
+        "topic": "Debugging",
+        "explanation": "Syntax errors stop execution; logical errors give wrong results."
+      },
+      {
+        "question_id": 22,
+        "question": "What is the divide and conquer approach?",
+        "selected_option": "Break problem into smaller subproblems",
+        "correct_option": "Break problem into smaller subproblems",
+        "is_correct": true,
+        "difficulty": "hard",
+        "topic": "Divide and Conquer",
+        "explanation": "Divide problem into subproblems."
+      },
+      {
+        "question_id": 10,
+        "question": "Which of these is a valid identifier in Python?",
+        "selected_option": "var_name",
+        "correct_option": "var_name",
+        "is_correct": true,
+        "difficulty": "easy",
+        "topic": "Identifiers",
+        "explanation": "Identifiers cannot start with numbers or contain spaces/hyphens."
+      },
+      {
+        "question_id": 23,
+        "question": "What is the difference between recursion and iteration?",
+        "selected_option": "Recursion uses function calls, iteration uses loops",
+        "correct_option": "Recursion uses function calls, iteration uses loops",
+        "is_correct": true,
+        "difficulty": "hard",
+        "topic": "Recursion vs Iteration",
+        "explanation": "Recursion = function calls; iteration = loops."
+      }
+    ]
+  },
+  {
+    "date": "2026-04-05 15:04:34",
+    "score": 10,
+    "total": 10,
+    "percentage": 100.0,
+    "answers": [
+      {
+        "question_id": 25,
+        "question": "How do you open a file for reading in Python?",
+        "selected_option": "open('file.txt','r')",
+        "correct_option": "open('file.txt','r')",
+        "is_correct": true,
+        "difficulty": "hard",
+        "topic": "File Handling",
+        "explanation": "'r' = read mode."
+      },
+      {
+        "question_id": 4,
+        "question": "What is the purpose of documentation in programming?",
+        "selected_option": "To explain code for others",
+        "correct_option": "To explain code for others",
+        "is_correct": true,
+        "difficulty": "easy",
+        "topic": "Documentation",
+        "explanation": "Documentation helps others understand your code."
+      },
+      {
+        "question_id": 28,
+        "question": "How do you import a custom module named 'mymodule'?",
+        "selected_option": "import mymodule",
+        "correct_option": "import mymodule",
+        "is_correct": true,
+        "difficulty": "hard",
+        "topic": "Modules",
+        "explanation": "Use import keyword."
+      },
+      {
+        "question_id": 16,
+        "question": "Which function converts a string to lowercase?",
+        "selected_option": "lower()",
+        "correct_option": "lower()",
+        "is_correct": true,
+        "difficulty": "medium",
+        "topic": "String Methods",
+        "explanation": "lower() converts to lowercase."
+      },
+      {
+        "question_id": 13,
+        "question": "What is the difference between break and continue?",
+        "selected_option": "break exits loop, continue skips iteration",
+        "correct_option": "break exits loop, continue skips iteration",
+        "is_correct": true,
+        "difficulty": "medium",
+        "topic": "Looping",
+        "explanation": "break stops loop; continue skips iteration."
+      },
+      {
+        "question_id": 11,
+        "question": "What is the difference between a syntax error and a logical error?",
+        "selected_option": "Syntax errors are caught by interpreter, logical errors are not",
+        "correct_option": "Syntax errors are caught by interpreter, logical errors are not",
+        "is_correct": true,
+        "difficulty": "medium",
+        "topic": "Debugging",
+        "explanation": "Syntax errors stop execution; logical errors give wrong results."
+      },
+      {
+        "question_id": 6,
+        "question": "What does an algorithm represent?",
+        "selected_option": "A step-by-step solution",
+        "correct_option": "A step-by-step solution",
+        "is_correct": true,
+        "difficulty": "easy",
+        "topic": "Algorithms",
+        "explanation": "An algorithm is a step-by-step procedure to solve a problem."
+      },
+      {
+        "question_id": 10,
+        "question": "Which of these is a valid identifier in Python?",
+        "selected_option": "var_name",
+        "correct_option": "var_name",
+        "is_correct": true,
+        "difficulty": "easy",
+        "topic": "Identifiers",
+        "explanation": "Identifiers cannot start with numbers or contain spaces/hyphens."
+      },
+      {
+        "question_id": 21,
+        "question": "What is recursion?",
+        "selected_option": "Function calling itself",
+        "correct_option": "Function calling itself",
+        "is_correct": true,
+        "difficulty": "hard",
+        "topic": "Recursion",
+        "explanation": "Recursion = function calling itself."
+      },
+      {
+        "question_id": 29,
+        "question": "What is the difference between local and global variables?",
+        "selected_option": "Local declared inside function, global outside",
+        "correct_option": "Local declared inside function, global outside",
+        "is_correct": true,
+        "difficulty": "hard",
+        "topic": "Variables",
+        "explanation": "Scope difference."
+      }
+    ]
+  },
+  {
+    "date": "2026-04-05 15:09:21",
+    "score": 9,
+    "total": 10,
+    "percentage": 90.0,
+    "answers": [
+      {
+        "question_id": 5,
+        "question": "What is a flowchart?",
+        "selected_option": "A graphical representation of algorithm",
+        "correct_option": "A graphical representation of algorithm",
+        "is_correct": true,
+        "difficulty": "easy",
+        "topic": "Flowcharting",
+        "explanation": "Flowcharts use symbols to show program flow visually."
+      },
+      {
+        "question_id": 22,
+        "question": "What is the divide and conquer approach?",
+        "selected_option": "Break problem into smaller subproblems",
+        "correct_option": "Break problem into smaller subproblems",
+        "is_correct": true,
+        "difficulty": "hard",
+        "topic": "Divide and Conquer",
+        "explanation": "Divide problem into subproblems."
+      },
+      {
+        "question_id": 21,
+        "question": "What is recursion?",
+        "selected_option": "Function calling itself",
+        "correct_option": "Function calling itself",
+        "is_correct": true,
+        "difficulty": "hard",
+        "topic": "Recursion",
+        "explanation": "Recursion = function calling itself."
+      },
+      {
+        "question_id": 15,
+        "question": "What is the output of 'Hello'[1:3]?",
+        "selected_option": "el",
+        "correct_option": "el",
+        "is_correct": true,
+        "difficulty": "medium",
+        "topic": "String Slicing",
+        "explanation": "Index 1 to 2 → 'el'"
+      },
+      {
+        "question_id": 6,
+        "question": "What does an algorithm represent?",
+        "selected_option": "A step-by-step solution",
+        "correct_option": "A step-by-step solution",
+        "is_correct": true,
+        "difficulty": "easy",
+        "topic": "Algorithms",
+        "explanation": "An algorithm is a step-by-step procedure to solve a problem."
+      },
+      {
+        "question_id": 12,
+        "question": "What is a decision table used for?",
+        "selected_option": "To represent complex logic conditions",
+        "correct_option": "To represent complex logic conditions",
+        "is_correct": true,
+        "difficulty": "medium",
+        "topic": "Decision Table",
+        "explanation": "Decision tables represent conditions and actions."
+      },
+      {
+        "question_id": 2,
+        "question": "What is a program design?",
+        "selected_option": "Planning the solution structure",
+        "correct_option": "Planning the solution structure",
+        "is_correct": true,
+        "difficulty": "easy",
+        "topic": "Program Design",
+        "explanation": "Program design is planning how the solution will work before coding."
+      },
+      {
+        "question_id": 30,
+        "question": "What is an anonymous function in Python?",
+        "selected_option": "Both lambda and nameless function",
+        "correct_option": "Both lambda and nameless function",
+        "is_correct": true,
+        "difficulty": "hard",
+        "topic": "Functions",
+        "explanation": "Lambda = anonymous function."
+      },
+      {
+        "question_id": 29,
+        "question": "What is the difference between local and global variables?",
+        "selected_option": "Local declared inside function, global outside",
+        "correct_option": "Local declared inside function, global outside",
+        "is_correct": true,
+        "difficulty": "hard",
+        "topic": "Variables",
+        "explanation": "Scope difference."
+      },
+      {
+        "question_id": 17,
+        "question": "What is the output of [1,2,3].append(4)?",
+        "selected_option": "[1,2,3,4]",
+        "correct_option": "None",
+        "is_correct": false,
+        "difficulty": "medium",
+        "topic": "List Operations",
+        "explanation": "append() returns None, so printing it gives None (implicit trick question)."
+      }
+    ]
+  },
+  {
+    "date": "2026-04-05 15:21:45",
+    "score": 10,
+    "total": 10,
+    "percentage": 100.0,
+    "answers": [
+      {
+        "question_id": 26,
+        "question": "What is the difference between 'w' and 'a' file modes?",
+        "selected_option": "'w' overwrites, 'a' appends",
+        "correct_option": "'w' overwrites, 'a' appends",
+        "is_correct": true,
+        "difficulty": "hard",
+        "topic": "File Handling",
+        "explanation": "'w' overwrites, 'a' appends."
+      },
+      {
+        "question_id": 13,
+        "question": "What is the difference between break and continue?",
+        "selected_option": "break exits loop, continue skips iteration",
+        "correct_option": "break exits loop, continue skips iteration",
+        "is_correct": true,
+        "difficulty": "medium",
+        "topic": "Looping",
+        "explanation": "break stops loop; continue skips iteration."
+      },
+      {
+        "question_id": 1,
+        "question": "What is the first step in problem solving with computers?",
+        "selected_option": "Understanding the problem",
+        "correct_option": "Understanding the problem",
+        "is_correct": true,
+        "difficulty": "easy",
+        "topic": "Problem Solving",
+        "explanation": "You must first understand the problem before solving it."
+      },
+      {
+        "question_id": 29,
+        "question": "What is the difference between local and global variables?",
+        "selected_option": "Local declared inside function, global outside",
+        "correct_option": "Local declared inside function, global outside",
+        "is_correct": true,
+        "difficulty": "hard",
+        "topic": "Variables",
+        "explanation": "Scope difference."
+      },
+      {
+        "question_id": 25,
+        "question": "How do you open a file for reading in Python?",
+        "selected_option": "open('file.txt','r')",
+        "correct_option": "open('file.txt','r')",
+        "is_correct": true,
+        "difficulty": "hard",
+        "topic": "File Handling",
+        "explanation": "'r' = read mode."
+      },
+      {
+        "question_id": 30,
+        "question": "What is an anonymous function in Python?",
+        "selected_option": "Both lambda and nameless function",
+        "correct_option": "Both lambda and nameless function",
+        "is_correct": true,
+        "difficulty": "hard",
+        "topic": "Functions",
+        "explanation": "Lambda = anonymous function."
+      },
+      {
+        "question_id": 17,
+        "question": "What is the output of [1,2,3].append(4)?",
+        "selected_option": "None",
+        "correct_option": "None",
+        "is_correct": true,
+        "difficulty": "medium",
+        "topic": "List Operations",
+        "explanation": "append() returns None, so printing it gives None (implicit trick question)."
+      },
+      {
+        "question_id": 2,
+        "question": "What is a program design?",
+        "selected_option": "Planning the solution structure",
+        "correct_option": "Planning the solution structure",
+        "is_correct": true,
+        "difficulty": "easy",
+        "topic": "Program Design",
+        "explanation": "Program design is planning how the solution will work before coding."
+      },
+      {
+        "question_id": 11,
+        "question": "What is the difference between a syntax error and a logical error?",
+        "selected_option": "Syntax errors are caught by interpreter, logical errors are not",
+        "correct_option": "Syntax errors are caught by interpreter, logical errors are not",
+        "is_correct": true,
+        "difficulty": "medium",
+        "topic": "Debugging",
+        "explanation": "Syntax errors stop execution; logical errors give wrong results."
+      },
+      {
+        "question_id": 7,
+        "question": "What is top-down programming?",
+        "selected_option": "Starting from main problem and breaking down",
+        "correct_option": "Starting from main problem and breaking down",
+        "is_correct": true,
+        "difficulty": "easy",
+        "topic": "Programming Methodologies",
+        "explanation": "Top-down starts with the main problem and breaks it into smaller parts."
+      }
+    ]
+  },
+  {
+    "date": "2026-04-05 15:27:07",
+    "score": 10,
+    "total": 10,
+    "percentage": 100.0,
+    "answers": [
+      {
+        "question_id": 1,
+        "question": "What is the first step in problem solving with computers?",
+        "selected_option": "Understanding the problem",
+        "correct_option": "Understanding the problem",
+        "is_correct": true,
+        "difficulty": "easy",
+        "topic": "Problem Solving",
+        "explanation": "You must first understand the problem before solving it."
+      },
+      {
+        "question_id": 25,
+        "question": "How do you open a file for reading in Python?",
+        "selected_option": "open('file.txt','r')",
+        "correct_option": "open('file.txt','r')",
+        "is_correct": true,
+        "difficulty": "hard",
+        "topic": "File Handling",
+        "explanation": "'r' = read mode."
+      },
+      {
+        "question_id": 20,
+        "question": "What is a default argument?",
+        "selected_option": "Argument with a default value if not provided",
+        "correct_option": "Argument with a default value if not provided",
+        "is_correct": true,
+        "difficulty": "medium",
+        "topic": "Functions",
+        "explanation": "Default values are used if not passed."
+      },
+      {
+        "question_id": 28,
+        "question": "How do you import a custom module named 'mymodule'?",
+        "selected_option": "import mymodule",
+        "correct_option": "import mymodule",
+        "is_correct": true,
+        "difficulty": "hard",
+        "topic": "Modules",
+        "explanation": "Use import keyword."
+      },
+      {
+        "question_id": 4,
+        "question": "What is the purpose of documentation in programming?",
+        "selected_option": "To explain code for others",
+        "correct_option": "To explain code for others",
+        "is_correct": true,
+        "difficulty": "easy",
+        "topic": "Documentation",
+        "explanation": "Documentation helps others understand your code."
+      },
+      {
+        "question_id": 7,
+        "question": "What is top-down programming?",
+        "selected_option": "Starting from main problem and breaking down",
+        "correct_option": "Starting from main problem and breaking down",
+        "is_correct": true,
+        "difficulty": "easy",
+        "topic": "Programming Methodologies",
+        "explanation": "Top-down starts with the main problem and breaks it into smaller parts."
+      },
+      {
+        "question_id": 11,
+        "question": "What is the difference between a syntax error and a logical error?",
+        "selected_option": "Syntax errors are caught by interpreter, logical errors are not",
+        "correct_option": "Syntax errors are caught by interpreter, logical errors are not",
+        "is_correct": true,
+        "difficulty": "medium",
+        "topic": "Debugging",
+        "explanation": "Syntax errors stop execution; logical errors give wrong results."
+      },
+      {
+        "question_id": 26,
+        "question": "What is the difference between 'w' and 'a' file modes?",
+        "selected_option": "'w' overwrites, 'a' appends",
+        "correct_option": "'w' overwrites, 'a' appends",
+        "is_correct": true,
+        "difficulty": "hard",
+        "topic": "File Handling",
+        "explanation": "'w' overwrites, 'a' appends."
+      },
+      {
+        "question_id": 14,
+        "question": "What does the pass statement do in Python?",
+        "selected_option": "Does nothing (placeholder)",
+        "correct_option": "Does nothing (placeholder)",
+        "is_correct": true,
+        "difficulty": "medium",
+        "topic": "Control Flow",
+        "explanation": "pass is a null statement."
+      },
+      {
+        "question_id": 30,
+        "question": "What is an anonymous function in Python?",
+        "selected_option": "Both lambda and nameless function",
+        "correct_option": "Both lambda and nameless function",
+        "is_correct": true,
+        "difficulty": "hard",
+        "topic": "Functions",
+        "explanation": "Lambda = anonymous function."
+      }
+    ]
+  },
+  {
+    "date": "2026-04-05 16:32:24",
+    "student_name": "Lia",
+    "score": 10,
+    "total": 10,
+    "percentage": 100.0,
+    "answers": [
+      {
+        "question_id": 12,
+        "question": "What is a decision table used for?",
+        "selected_option": "To represent complex logic conditions",
+        "correct_option": "To represent complex logic conditions",
+        "is_correct": true,
+        "difficulty": "medium",
+        "topic": "Decision Table",
+        "explanation": "Decision tables represent conditions and actions."
+      },
+      {
+        "question_id": 1,
+        "question": "What is the first step in problem solving with computers?",
+        "selected_option": "Understanding the problem",
+        "correct_option": "Understanding the problem",
+        "is_correct": true,
+        "difficulty": "easy",
+        "topic": "Problem Solving",
+        "explanation": "You must first understand the problem before solving it."
+      },
+      {
+        "question_id": 8,
+        "question": "What is bottom-up programming?",
+        "selected_option": "Starting from smaller components and building up",
+        "correct_option": "Starting from smaller components and building up",
+        "is_correct": true,
+        "difficulty": "easy",
+        "topic": "Programming Methodologies",
+        "explanation": "Bottom-up starts with smaller components and combines them."
+      },
+      {
+        "question_id": 7,
+        "question": "What is top-down programming?",
+        "selected_option": "Starting from main problem and breaking down",
+        "correct_option": "Starting from main problem and breaking down",
+        "is_correct": true,
+        "difficulty": "easy",
+        "topic": "Programming Methodologies",
+        "explanation": "Top-down starts with the main problem and breaks it into smaller parts."
+      },
+      {
+        "question_id": 28,
+        "question": "How do you import a custom module named 'mymodule'?",
+        "selected_option": "import mymodule",
+        "correct_option": "import mymodule",
+        "is_correct": true,
+        "difficulty": "hard",
+        "topic": "Modules",
+        "explanation": "Use import keyword."
+      },
+      {
+        "question_id": 23,
+        "question": "What is the difference between recursion and iteration?",
+        "selected_option": "Recursion uses function calls, iteration uses loops",
+        "correct_option": "Recursion uses function calls, iteration uses loops",
+        "is_correct": true,
+        "difficulty": "hard",
+        "topic": "Recursion vs Iteration",
+        "explanation": "Recursion = function calls; iteration = loops."
+      },
+      {
+        "question_id": 27,
+        "question": "What is a module in Python?",
+        "selected_option": "A file containing Python code",
+        "correct_option": "A file containing Python code",
+        "is_correct": true,
+        "difficulty": "hard",
+        "topic": "Modules",
+        "explanation": "Module = Python file."
+      },
+      {
+        "question_id": 19,
+        "question": "What is a positional argument in a function?",
+        "selected_option": "Argument passed in correct order",
+        "correct_option": "Argument passed in correct order",
+        "is_correct": true,
+        "difficulty": "medium",
+        "topic": "Functions",
+        "explanation": "Order matters in positional arguments."
+      },
+      {
+        "question_id": 29,
+        "question": "What is the difference between local and global variables?",
+        "selected_option": "Local declared inside function, global outside",
+        "correct_option": "Local declared inside function, global outside",
+        "is_correct": true,
+        "difficulty": "hard",
+        "topic": "Variables",
+        "explanation": "Scope difference."
+      },
+      {
+        "question_id": 13,
+        "question": "What is the difference between break and continue?",
+        "selected_option": "break exits loop, continue skips iteration",
+        "correct_option": "break exits loop, continue skips iteration",
+        "is_correct": true,
+        "difficulty": "medium",
+        "topic": "Looping",
+        "explanation": "break stops loop; continue skips iteration."
+      }
+    ]
+  },
+  {
+    "date": "2026-04-05 17:00:05",
+    "student_name": "ben",
+    "score": 10,
+    "total": 10,
+    "percentage": 100.0,
+    "answers": [
+      {
+        "question_id": 22,
+        "question": "What is the divide and conquer approach?",
+        "selected_option": "Break problem into smaller subproblems",
+        "correct_option": "Break problem into smaller subproblems",
+        "is_correct": true,
+        "difficulty": "hard",
+        "topic": "Divide and Conquer",
+        "explanation": "Divide problem into subproblems."
+      },
+      {
+        "question_id": 12,
+        "question": "What is a decision table used for?",
+        "selected_option": "To represent complex logic conditions",
+        "correct_option": "To represent complex logic conditions",
+        "is_correct": true,
+        "difficulty": "medium",
+        "topic": "Decision Table",
+        "explanation": "Decision tables represent conditions and actions."
+      },
+      {
+        "question_id": 19,
+        "question": "What is a positional argument in a function?",
+        "selected_option": "Argument passed in correct order",
+        "correct_option": "Argument passed in correct order",
+        "is_correct": true,
+        "difficulty": "medium",
+        "topic": "Functions",
+        "explanation": "Order matters in positional arguments."
+      },
+      {
+        "question_id": 27,
+        "question": "What is a module in Python?",
+        "selected_option": "A file containing Python code",
+        "correct_option": "A file containing Python code",
+        "is_correct": true,
+        "difficulty": "hard",
+        "topic": "Modules",
+        "explanation": "Module = Python file."
+      },
+      {
+        "question_id": 2,
+        "question": "What is a program design?",
+        "selected_option": "Planning the solution structure",
+        "correct_option": "Planning the solution structure",
+        "is_correct": true,
+        "difficulty": "easy",
+        "topic": "Program Design",
+        "explanation": "Program design is planning how the solution will work before coding."
+      },
+      {
+        "question_id": 17,
+        "question": "What is the output of [1,2,3].append(4)?",
+        "selected_option": "None",
+        "correct_option": "None",
+        "is_correct": true,
+        "difficulty": "medium",
+        "topic": "List Operations",
+        "explanation": "append() returns None, so printing it gives None (implicit trick question)."
+      },
+      {
+        "question_id": 26,
+        "question": "What is the difference between 'w' and 'a' file modes?",
+        "selected_option": "'w' overwrites, 'a' appends",
+        "correct_option": "'w' overwrites, 'a' appends",
+        "is_correct": true,
+        "difficulty": "hard",
+        "topic": "File Handling",
+        "explanation": "'w' overwrites, 'a' appends."
+      },
+      {
+        "question_id": 28,
+        "question": "How do you import a custom module named 'mymodule'?",
+        "selected_option": "import mymodule",
+        "correct_option": "import mymodule",
+        "is_correct": true,
+        "difficulty": "hard",
+        "topic": "Modules",
+        "explanation": "Use import keyword."
+      },
+      {
+        "question_id": 3,
+        "question": "What type of error occurs when you misspell a keyword?",
+        "selected_option": "Syntax error",
+        "correct_option": "Syntax error",
+        "is_correct": true,
+        "difficulty": "easy",
+        "topic": "Debugging",
+        "explanation": "Syntax errors occur when code violates language rules."
+      },
+      {
+        "question_id": 6,
+        "question": "What does an algorithm represent?",
+        "selected_option": "A step-by-step solution",
+        "correct_option": "A step-by-step solution",
+        "is_correct": true,
+        "difficulty": "easy",
+        "topic": "Algorithms",
+        "explanation": "An algorithm is a step-by-step procedure to solve a problem."
+      }
+    ]
+  },
+  {
+    "date": "2026-04-05 17:26:03",
+    "student_name": "Sarah",
+    "score": 9,
+    "total": 10,
+    "percentage": 90.0,
+    "answers": [
+      {
+        "question_id": 12,
+        "question": "What is a decision table used for?",
+        "selected_option": "To represent complex logic conditions",
+        "correct_option": "To represent complex logic conditions",
+        "is_correct": true,
+        "difficulty": "medium",
+        "topic": "Decision Table",
+        "explanation": "Decision tables represent conditions and actions."
+      },
+      {
+        "question_id": 30,
+        "question": "What is an anonymous function in Python?",
+        "selected_option": "Both lambda and nameless function",
+        "correct_option": "Both lambda and nameless function",
+        "is_correct": true,
+        "difficulty": "hard",
+        "topic": "Functions",
+        "explanation": "Lambda = anonymous function."
+      },
+      {
+        "question_id": 33,
+        "question": "Output of print(\"A\"+\"B\")?",
+        "selected_option": "AB",
+        "correct_option": "AB",
+        "is_correct": true,
+        "difficulty": "medium",
+        "topic": "strings",
+        "explanation": "strings join without spaces"
+      },
+      {
+        "question_id": 31,
+        "question": "Data type of \"Hello\"?",
+        "selected_option": "str",
+        "correct_option": "int",
+        "is_correct": false,
+        "difficulty": "easy",
+        "topic": "data types",
+        "explanation": "text in quotes is sring"
+      },
+      {
+        "question_id": 2,
+        "question": "What is a program design?",
+        "selected_option": "Planning the solution structure",
+        "correct_option": "Planning the solution structure",
+        "is_correct": true,
+        "difficulty": "easy",
+        "topic": "Program Design",
+        "explanation": "Program design is planning how the solution will work before coding."
+      },
+      {
+        "question_id": 25,
+        "question": "How do you open a file for reading in Python?",
+        "selected_option": "open('file.txt','r')",
+        "correct_option": "open('file.txt','r')",
+        "is_correct": true,
+        "difficulty": "hard",
+        "topic": "File Handling",
+        "explanation": "'r' = read mode."
+      },
+      {
+        "question_id": 1,
+        "question": "What is the first step in problem solving with computers?",
+        "selected_option": "Understanding the problem",
+        "correct_option": "Understanding the problem",
+        "is_correct": true,
+        "difficulty": "easy",
+        "topic": "Problem Solving",
+        "explanation": "You must first understand the problem before solving it."
+      },
+      {
+        "question_id": 23,
+        "question": "What is the difference between recursion and iteration?",
+        "selected_option": "Recursion uses function calls, iteration uses loops",
+        "correct_option": "Recursion uses function calls, iteration uses loops",
+        "is_correct": true,
+        "difficulty": "hard",
+        "topic": "Recursion vs Iteration",
+        "explanation": "Recursion = function calls; iteration = loops."
+      },
+      {
+        "question_id": 17,
+        "question": "What is the output of [1,2,3].append(4)?",
+        "selected_option": "None",
+        "correct_option": "None",
+        "is_correct": true,
+        "difficulty": "medium",
+        "topic": "List Operations",
+        "explanation": "append() returns None, so printing it gives None (implicit trick question)."
+      },
+      {
+        "question_id": 28,
+        "question": "How do you import a custom module named 'mymodule'?",
+        "selected_option": "import mymodule",
+        "correct_option": "import mymodule",
+        "is_correct": true,
+        "difficulty": "hard",
+        "topic": "Modules",
+        "explanation": "Use import keyword."
+      }
+    ]
+  },
+  {
+    "date": "2026-04-05 17:32:33",
+    "student_name": "Varsha",
+    "score": 10,
+    "total": 10,
+    "percentage": 100.0,
+    "answers": [
+      {
+        "question_id": 19,
+        "question": "What is a positional argument in a function?",
+        "selected_option": "Argument passed in correct order",
+        "correct_option": "Argument passed in correct order",
+        "is_correct": true,
+        "difficulty": "medium",
+        "topic": "Functions",
+        "explanation": "Order matters in positional arguments."
+      },
+      {
+        "question_id": 30,
+        "question": "What is an anonymous function in Python?",
+        "selected_option": "Both lambda and nameless function",
+        "correct_option": "Both lambda and nameless function",
+        "is_correct": true,
+        "difficulty": "hard",
+        "topic": "Functions",
+        "explanation": "Lambda = anonymous function."
+      },
+      {
+        "question_id": 1,
+        "question": "What is the first step in problem solving with computers?",
+        "selected_option": "Understanding the problem",
+        "correct_option": "Understanding the problem",
+        "is_correct": true,
+        "difficulty": "easy",
+        "topic": "Problem Solving",
+        "explanation": "You must first understand the problem before solving it."
+      },
+      {
+        "question_id": 25,
+        "question": "How do you open a file for reading in Python?",
+        "selected_option": "open('file.txt','r')",
+        "correct_option": "open('file.txt','r')",
+        "is_correct": true,
+        "difficulty": "hard",
+        "topic": "File Handling",
+        "explanation": "'r' = read mode."
+      },
+      {
+        "question_id": 6,
+        "question": "What does an algorithm represent?",
+        "selected_option": "A step-by-step solution",
+        "correct_option": "A step-by-step solution",
+        "is_correct": true,
+        "difficulty": "easy",
+        "topic": "Algorithms",
+        "explanation": "An algorithm is a step-by-step procedure to solve a problem."
+      },
+      {
+        "question_id": 24,
+        "question": "What is a dictionary in Python?",
+        "selected_option": "Key-value pair collection",
+        "correct_option": "Key-value pair collection",
+        "is_correct": true,
+        "difficulty": "hard",
+        "topic": "Dictionaries",
+        "explanation": "Stores key-value pairs."
+      },
+      {
+        "question_id": 4,
+        "question": "What is the purpose of documentation in programming?",
+        "selected_option": "To explain code for others",
+        "correct_option": "To explain code for others",
+        "is_correct": true,
+        "difficulty": "easy",
+        "topic": "Documentation",
+        "explanation": "Documentation helps others understand your code."
+      },
+      {
+        "question_id": 21,
+        "question": "What is recursion?",
+        "selected_option": "Function calling itself",
+        "correct_option": "Function calling itself",
+        "is_correct": true,
+        "difficulty": "hard",
+        "topic": "Recursion",
+        "explanation": "Recursion = function calling itself."
+      },
+      {
+        "question_id": 12,
+        "question": "What is a decision table used for?",
+        "selected_option": "To represent complex logic conditions",
+        "correct_option": "To represent complex logic conditions",
+        "is_correct": true,
+        "difficulty": "medium",
+        "topic": "Decision Table",
+        "explanation": "Decision tables represent conditions and actions."
+      },
+      {
+        "question_id": 33,
+        "question": "Output of print(\"A\"+\"B\")?",
+        "selected_option": "AB",
+        "correct_option": "AB",
+        "is_correct": true,
+        "difficulty": "medium",
+        "topic": "strings",
+        "explanation": "strings join without spaces"
+      }
+    ]
+  },
+  {
+    "date": "2026-04-05 18:05:53",
+    "student_name": "krishna",
+    "score": 9,
+    "total": 10,
+    "percentage": 90.0,
+    "answers": [
+      {
+        "question_id": 29,
+        "question": "What is the difference between local and global variables?",
+        "selected_option": "Local declared inside function, global outside",
+        "correct_option": "Local declared inside function, global outside",
+        "is_correct": true,
+        "difficulty": "hard",
+        "topic": "Variables",
+        "explanation": "Scope difference."
+      },
+      {
+        "question_id": 8,
+        "question": "What is bottom-up programming?",
+        "selected_option": "Starting from smaller components and building up",
+        "correct_option": "Starting from smaller components and building up",
+        "is_correct": true,
+        "difficulty": "easy",
+        "topic": "Programming Methodologies",
+        "explanation": "Bottom-up starts with smaller components and combines them."
+      },
+      {
+        "question_id": 23,
+        "question": "What is the difference between recursion and iteration?",
+        "selected_option": "Recursion uses function calls, iteration uses loops",
+        "correct_option": "Recursion uses function calls, iteration uses loops",
+        "is_correct": true,
+        "difficulty": "hard",
+        "topic": "Recursion vs Iteration",
+        "explanation": "Recursion = function calls; iteration = loops."
+      },
+      {
+        "question_id": 22,
+        "question": "What is the divide and conquer approach?",
+        "selected_option": "Break problem into smaller subproblems",
+        "correct_option": "Break problem into smaller subproblems",
+        "is_correct": true,
+        "difficulty": "hard",
+        "topic": "Divide and Conquer",
+        "explanation": "Divide problem into subproblems."
+      },
+      {
+        "question_id": 5,
+        "question": "What is a flowchart?",
+        "selected_option": "A graphical representation of algorithm",
+        "correct_option": "A graphical representation of algorithm",
+        "is_correct": true,
+        "difficulty": "easy",
+        "topic": "Flowcharting",
+        "explanation": "Flowcharts use symbols to show program flow visually."
+      },
+      {
+        "question_id": 14,
+        "question": "What does the pass statement do in Python?",
+        "selected_option": "Does nothing (placeholder)",
+        "correct_option": "Does nothing (placeholder)",
+        "is_correct": true,
+        "difficulty": "medium",
+        "topic": "Control Flow",
+        "explanation": "pass is a null statement."
+      },
+      {
+        "question_id": 11,
+        "question": "What is the difference between a syntax error and a logical error?",
+        "selected_option": "Syntax errors are caught by interpreter, logical errors are not",
+        "correct_option": "Syntax errors are caught by interpreter, logical errors are not",
+        "is_correct": true,
+        "difficulty": "medium",
+        "topic": "Debugging",
+        "explanation": "Syntax errors stop execution; logical errors give wrong results."
+      },
+      {
+        "question_id": 19,
+        "question": "What is a positional argument in a function?",
+        "selected_option": "Argument with keyword",
+        "correct_option": "Argument passed in correct order",
+        "is_correct": false,
+        "difficulty": "medium",
+        "topic": "Functions",
+        "explanation": "Order matters in positional arguments."
+      },
+      {
+        "question_id": 27,
+        "question": "What is a module in Python?",
+        "selected_option": "A file containing Python code",
+        "correct_option": "A file containing Python code",
+        "is_correct": true,
+        "difficulty": "hard",
+        "topic": "Modules",
+        "explanation": "Module = Python file."
+      },
+      {
+        "question_id": 4,
+        "question": "What is the purpose of documentation in programming?",
+        "selected_option": "To explain code for others",
+        "correct_option": "To explain code for others",
+        "is_correct": true,
+        "difficulty": "easy",
+        "topic": "Documentation",
+        "explanation": "Documentation helps others understand your code."
+      }
+    ]
   }
 ]

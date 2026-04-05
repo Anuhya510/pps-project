@@ -432,33 +432,5 @@
     "difficulty": "easy",
     "topic": "arithmetic operators",
     "explanation": "* multiplies"
-  },
-  {
-    "id": 33,
-    "question": "Output of print(\"A\"+\"B\")?",
-    "options": [
-      "A B",
-      "Error",
-      "A+B",
-      "AB"
-    ],
-    "correct": 3,
-    "difficulty": "medium",
-    "topic": "strings",
-    "explanation": "strings join without spaces"
-  },
-  {
-    "id": 34,
-    "question": "What does 'global' keyword do?",
-    "options": [
-      "Creates variable",
-      "Makes variable constant",
-      "Allows modifying global variable inside function",
-      "Deletes variable"
-    ],
-    "correct": 2,
-    "difficulty": "hard",
-    "topic": "Global Keyword",
-    "explanation": "It links local to global variable."
   }
 ]
