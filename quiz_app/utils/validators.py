@@ -1,11 +1,10 @@
 from typing import Dict, List, Any, Optional
 
-from utils.exceptions import (
+from quiz_app.utils.exceptions import (
     InvalidQuestionError,
     InvalidStudentError,
     InvalidQuizSettingsError
 )
-
 
 def validate_student_name(name: str) -> bool:
     """

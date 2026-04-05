@@ -1,0 +1,218 @@
+[
+  {
+    "date": "2026-04-05 12:14:06",
+    "score": 10,
+    "total": 10,
+    "percentage": 100.0,
+    "answers": [
+      {
+        "question_id": 3,
+        "question": "What type of error occurs when you misspell a keyword?",
+        "selected_option": "Syntax error",
+        "correct_option": "Syntax error",
+        "is_correct": true,
+        "difficulty": "easy",
+        "topic": "Debugging",
+        "explanation": "Syntax errors occur when code violates language rules."
+      },
+      {
+        "question_id": 24,
+        "question": "What is a dictionary in Python?",
+        "selected_option": "Key-value pair collection",
+        "correct_option": "Key-value pair collection",
+        "is_correct": true,
+        "difficulty": "hard",
+        "topic": "Dictionaries",
+        "explanation": "Stores key-value pairs."
+      },
+      {
+        "question_id": 29,
+        "question": "What is the difference between local and global variables?",
+        "selected_option": "Local declared inside function, global outside",
+        "correct_option": "Local declared inside function, global outside",
+        "is_correct": true,
+        "difficulty": "hard",
+        "topic": "Variables",
+        "explanation": "Scope difference."
+      },
+      {
+        "question_id": 18,
+        "question": "What is the difference between a list and a tuple?",
+        "selected_option": "List is mutable, tuple is immutable",
+        "correct_option": "List is mutable, tuple is immutable",
+        "is_correct": true,
+        "difficulty": "medium",
+        "topic": "Tuples and Sets",
+        "explanation": "Lists are mutable; tuples are not."
+      },
+      {
+        "question_id": 4,
+        "question": "What is the purpose of documentation in programming?",
+        "selected_option": "To explain code for others",
+        "correct_option": "To explain code for others",
+        "is_correct": true,
+        "difficulty": "easy",
+        "topic": "Documentation",
+        "explanation": "Documentation helps others understand your code."
+      },
+      {
+        "question_id": 5,
+        "question": "What is a flowchart?",
+        "selected_option": "A graphical representation of algorithm",
+        "correct_option": "A graphical representation of algorithm",
+        "is_correct": true,
+        "difficulty": "easy",
+        "topic": "Flowcharting",
+        "explanation": "Flowcharts use symbols to show program flow visually."
+      },
+      {
+        "question_id": 25,
+        "question": "How do you open a file for reading in Python?",
+        "selected_option": "open('file.txt','r')",
+        "correct_option": "open('file.txt','r')",
+        "is_correct": true,
+        "difficulty": "hard",
+        "topic": "File Handling",
+        "explanation": "'r' = read mode."
+      },
+      {
+        "question_id": 15,
+        "question": "What is the output of 'Hello'[1:3]?",
+        "selected_option": "el",
+        "correct_option": "el",
+        "is_correct": true,
+        "difficulty": "medium",
+        "topic": "String Slicing",
+        "explanation": "Index 1 to 2 → 'el'"
+      },
+      {
+        "question_id": 16,
+        "question": "Which function converts a string to lowercase?",
+        "selected_option": "lower()",
+        "correct_option": "lower()",
+        "is_correct": true,
+        "difficulty": "medium",
+        "topic": "String Methods",
+        "explanation": "lower() converts to lowercase."
+      },
+      {
+        "question_id": 28,
+        "question": "How do you import a custom module named 'mymodule'?",
+        "selected_option": "import mymodule",
+        "correct_option": "import mymodule",
+        "is_correct": true,
+        "difficulty": "hard",
+        "topic": "Modules",
+        "explanation": "Use import keyword."
+      }
+    ]
+  },
+  {
+    "date": "2026-04-05 13:04:57",
+    "score": 10,
+    "total": 10,
+    "percentage": 100.0,
+    "answers": [
+      {
+        "question_id": 1,
+        "question": "What is the first step in problem solving with computers?",
+        "selected_option": "Understanding the problem",
+        "correct_option": "Understanding the problem",
+        "is_correct": true,
+        "difficulty": "easy",
+        "topic": "Problem Solving",
+        "explanation": "You must first understand the problem before solving it."
+      },
+      {
+        "question_id": 26,
+        "question": "What is the difference between 'w' and 'a' file modes?",
+        "selected_option": "'w' overwrites, 'a' appends",
+        "correct_option": "'w' overwrites, 'a' appends",
+        "is_correct": true,
+        "difficulty": "hard",
+        "topic": "File Handling",
+        "explanation": "'w' overwrites, 'a' appends."
+      },
+      {
+        "question_id": 14,
+        "question": "What does the pass statement do in Python?",
+        "selected_option": "Does nothing (placeholder)",
+        "correct_option": "Does nothing (placeholder)",
+        "is_correct": true,
+        "difficulty": "medium",
+        "topic": "Control Flow",
+        "explanation": "pass is a null statement."
+      },
+      {
+        "question_id": 8,
+        "question": "What is bottom-up programming?",
+        "selected_option": "Starting from smaller components and building up",
+        "correct_option": "Starting from smaller components and building up",
+        "is_correct": true,
+        "difficulty": "easy",
+        "topic": "Programming Methodologies",
+        "explanation": "Bottom-up starts with smaller components and combines them."
+      },
+      {
+        "question_id": 15,
+        "question": "What is the output of 'Hello'[1:3]?",
+        "selected_option": "el",
+        "correct_option": "el",
+        "is_correct": true,
+        "difficulty": "medium",
+        "topic": "String Slicing",
+        "explanation": "Index 1 to 2 → 'el'"
+      },
+      {
+        "question_id": 9,
+        "question": "What is indentation used for in Python?",
+        "selected_option": "To define code blocks",
+        "correct_option": "To define code blocks",
+        "is_correct": true,
+        "difficulty": "easy",
+        "topic": "Python Basics",
+        "explanation": "Indentation defines blocks of code in Python."
+      },
+      {
+        "question_id": 29,
+        "question": "What is the difference between local and global variables?",
+        "selected_option": "Local declared inside function, global outside",
+        "correct_option": "Local declared inside function, global outside",
+        "is_correct": true,
+        "difficulty": "hard",
+        "topic": "Variables",
+        "explanation": "Scope difference."
+      },
+      {
+        "question_id": 24,
+        "question": "What is a dictionary in Python?",
+        "selected_option": "Key-value pair collection",
+        "correct_option": "Key-value pair collection",
+        "is_correct": true,
+        "difficulty": "hard",
+        "topic": "Dictionaries",
+        "explanation": "Stores key-value pairs."
+      },
+      {
+        "question_id": 21,
+        "question": "What is recursion?",
+        "selected_option": "Function calling itself",
+        "correct_option": "Function calling itself",
+        "is_correct": true,
+        "difficulty": "hard",
+        "topic": "Recursion",
+        "explanation": "Recursion = function calling itself."
+      },
+      {
+        "question_id": 11,
+        "question": "What is the difference between a syntax error and a logical error?",
+        "selected_option": "Syntax errors are caught by interpreter, logical errors are not",
+        "correct_option": "Syntax errors are caught by interpreter, logical errors are not",
+        "is_correct": true,
+        "difficulty": "medium",
+        "topic": "Debugging",
+        "explanation": "Syntax errors stop execution; logical errors give wrong results."
+      }
+    ]
+  }
+]
